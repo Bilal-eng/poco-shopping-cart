@@ -1,0 +1,6 @@
+@import './style/variable.scss';
+@import './style/list.scss';
+
+body {
+  background: $bg-color !important;
+}
