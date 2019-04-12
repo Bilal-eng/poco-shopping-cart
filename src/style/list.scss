@@ -1,3 +1,11 @@
 .card {
     flex: 1 0 12em
 }
+
+.card-body {
+    padding: .7em;
+    h5 {
+        font-size: $card-font-size;
+        font-weight: bold
+    }
+}
